@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hospitalassignment.Hospitaltest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-09T14:05:28" hostname="Gowthamis-MacBook-Pro.local" time="0.07">
+  <properties/>
+  <testcase name="getData" classname="hospitalassignment.Hospitaltest" time="0.07"/>
+  <system-out><![CDATA[Total in Bangalore -- 1
+Total Outstation -- 3
+Patients Bangalore -- 25.0
+Patients from outside Bangalore -- 75.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
